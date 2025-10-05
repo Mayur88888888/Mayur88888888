@@ -46,12 +46,16 @@
 
 You can use this widget via [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph):
 
-```md
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![GitHub Calendar](https://github.com/your-github-username/github-readme-calendar/raw/master/images/calendar.svg)](https://github.com/your-github-username)
 
+<!-- Dynamic Quote -->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Snake Game Contribution Grid -->
+![snake gif](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
 
 
 
