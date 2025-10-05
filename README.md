@@ -5,7 +5,7 @@
 
 ---
 
-### 🧰 Tech Stack:
+### 🧰 My Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -20,31 +20,38 @@
 
 ---
 
-### 🔥 Streak Stats:
+### 🔥 My Streak Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur88888888&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 
-### 🚀 Top Languages:
+### 🚀 My Top Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur88888888&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🏆 My GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mayur88888888&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### ⏳ Recent GitHub Activity:
+### ⏳ My Recent GitHub Activity:
 > Requires enabling GitHub Actions or hosting separately
 
 You can use this widget via [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph):
 
 ```md
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![GitHub Calendar](https://github.com/your-github-username/github-readme-calendar/raw/master/images/calendar.svg)](https://github.com/your-github-username)
+
+
+
+
