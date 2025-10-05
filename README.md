@@ -43,3 +43,10 @@
 
 ### ⏳ My Recent GitHub Activity:
 [![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayur88888888&theme=radical)](https://github.com/Mayur88888888/github-readme-activity-graph)
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-time.vercel.app/api?timezone=Asia/Kolkata" alt="Digital Clock" />
+</p>
