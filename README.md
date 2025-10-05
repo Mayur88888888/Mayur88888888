@@ -46,7 +46,3 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-time.vercel.app/api?timezone=Asia/Kolkata" alt="Digital Clock" />
-</p>
