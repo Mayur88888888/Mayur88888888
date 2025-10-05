@@ -42,7 +42,4 @@
 ---
 
 ### ⏳ My Recent GitHub Activity:
-
-[github-readme-activity-graph](https://github.com/Mayur88888888/github-readme-activity-graph):
-
 [![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayur88888888&theme=radical)](https://github.com/Mayur88888888/github-readme-activity-graph)
