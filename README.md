@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur88888888</h1>
 
-<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
+<h3 align="center"> Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mayur88888888&label=Profile%20Views&color=0e75b6&style=flat" alt="Mayur88888888" />
