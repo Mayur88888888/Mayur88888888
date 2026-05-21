@@ -162,14 +162,6 @@
 
 ---
 
-# ⏳ Recent GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur88888888&theme=radical" />
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
