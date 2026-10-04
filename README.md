@@ -15,6 +15,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Mayur88888888">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Open+Source+Enthusiast;Full+Stack+Developer;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 # 💫 About Me
@@ -33,17 +39,6 @@
   <a href="https://github.com/Mayur88888888">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <!-- Add your links below -->
-  <!--
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  -->
 </p>
 
 ---
@@ -80,8 +75,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur88888888&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur88888888&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur88888888&layout=compact&langs_count=8&theme=radical" />
 </p>
 
 ---
@@ -89,7 +83,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur88888888&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Mayur88888888&theme=radical" />
 </p>
 
 ---
@@ -110,54 +104,28 @@
 
 ---
 
-# 📥 Repository Downloads
+# 📊 Profile Summary
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayur88888888&theme=radical" />
+</p>
 
-  <!-- Replace repo names with your actual repositories -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayur88888888&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayur88888888&theme=radical" />
+</p>
 
-  <img src="https://img.shields.io/github/downloads/Mayur88888888/repo1/total?style=for-the-badge&label=Repo1%20Downloads&color=blue" />
-
-  <img src="https://img.shields.io/github/downloads/Mayur88888888/repo2/total?style=for-the-badge&label=Repo2%20Downloads&color=purple" />
-
-  <img src="https://img.shields.io/github/downloads/Mayur88888888/repo3/total?style=for-the-badge&label=Repo3%20Downloads&color=green" />
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayur88888888&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayur88888888&theme=radical&utcOffset=5.5" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 💬 Random Dev Quote
 
 <p align="center">
-
-<a href="https://github.com/Mayur88888888">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur88888888&repo=repo1&theme=radical" />
-</a>
-
-<a href="https://github.com/Mayur88888888">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur88888888&repo=repo2&theme=radical" />
-</a>
-
-</p>
-
----
-
-# ⚡ GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Mayur88888888?template=classic&config.timezone=Asia%2FKolkata" />
-</p>
-
----
-
-# 🎵 Spotify Playing (Optional)
-
-<!-- Replace USER_ID with your Spotify widget if needed -->
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=USER_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=USER_ID&cover_image=true&theme=novatorem" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -183,3 +151,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=120&section=footer"/>
 </p>
+
+---
